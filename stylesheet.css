@@ -98,4 +98,6 @@ hr{margin-top: 40px; margin-left: 30px; margin-right: 30px;}
 .img0 {width: 65px;}
 #dark+p{color: white; font-size: 16px; font-family: "Montserrate"; padding-right: 20px; text-align: justify; font-weight: 50;}
 .First{display: flex; margin-top: 15px; margin-left: 15px; margin-right: -37px;}
+.nav{display: flex; justify-content: space-between; width: 100vh;}
+.main {width: 100vh;}
 }
