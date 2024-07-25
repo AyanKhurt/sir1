@@ -204,27 +204,151 @@ hr{
 .abc1 {
     margin-left: 30px;
 }
-@media (max-width: 575px) {
-body{
-    color: white; 
-    background-color: black; 
-    margin-left: 0px; 
-    margin-right: 0px;
-    width: 100vh;
+@media (max-width: 1660px) {
+    body{
+        color: white; 
+        background-color: black; 
+        margin-left: 0px; 
+        margin-right: 0px;
+        width: 130vh;
+    }
+       .nav-abc ul li{
+        padding: 10px; 
+        font-size: 10px;
+    }
+    .img0-mno {
+        width: 140px;
+    }
+    .mno img{
+        height: 220px;
+         background-color: #edf505;
+         margin-right: 30px;
+    }
+    .abc img {
+        height: 210px;
+    }
+    .nav-abc ul li{
+        padding: 15px; 
+        font-size: 16px;
+    }
 }
-   .nav-abc ul li{
-    padding: 10px; 
-    font-size: 10px;
+@media (max-width: 1399px) {
+    body{
+        color: white; 
+        background-color: black; 
+        margin-left: 0px; 
+        margin-right: 0px;
+        width: 100%;
+    }
+       .nav-abc ul li{
+        padding: 10px; 
+        font-size: 10px;
+    }
+    .img0-mno {
+        width: 100px;
+    }
+    .mno img{
+        height: 160px;
+         background-color: #edf505;
+         margin-right: 30px;
+    }
+    .abc img {
+        height: 210px;
+    }
 }
-.img0-mno {
-    width: 100px;
-}
-.mno img{
-    height: 160px;
-     background-color: #edf505;
-     margin-right: 30px;
-}
-.abc img {
-    height: 210px;
-}
-}
+@media (max-width: 991px) {
+    body{
+        color: white; 
+        background-color: black; 
+            margin-left: 0px; 
+            margin-right: 0px;
+            width: 78vh;
+        }
+           .nav-abc ul li{
+            padding: 10px; 
+            font-size: 10px;
+        }
+        .img0-mno {
+            width: 100px;
+        }
+        .mno img{
+            height: 160px;
+             background-color: #edf505;
+             margin-right: 30px;
+        }
+        .abc img {
+            height: 210px;
+        }
+        }
+    @media (max-width: 1199px) {
+            body{
+                color: white; 
+                background-color: black; 
+                margin-left: 0px; 
+                margin-right: 0px;
+                width: 95vh;
+            }
+               .nav-abc ul li{
+                padding: 10px; 
+                font-size: 10px;
+            }
+            .img0-mno {
+                width: 100px;
+            }
+            .mno img{
+                height: 160px;
+                 background-color: #edf505;
+                 margin-right: 30px;
+            }
+            .abc img {
+                height: 210px;
+            }
+    }
+    @media (max-width: 767px) {
+        body{
+            color: white; 
+            background-color: black; 
+            margin-left: 0px; 
+            margin-right: 0px;
+            width: 60vh;
+        }
+           .nav-abc ul li{
+            padding: 10px; 
+            font-size: 10px;
+        }
+        .img0-mno {
+            width: 100px;
+        }
+        .mno img{
+            height: 160px;
+             background-color: #edf505;
+             margin-right: 30px;
+        }
+        .abc img {
+            height: 210px;
+        }
+        }
+        @media (max-width: 575px) {
+        body{
+            color: white; 
+            background-color: black; 
+            margin-left: 0px; 
+            margin-right: 0px;
+            width: 100vh;
+        }
+           .nav-abc ul li{
+            padding: 10px; 
+            font-size: 10px;
+        }
+        .img0-mno {
+            width: 100px;
+        }
+        .mno img{
+            height: 160px;
+             background-color: #edf505;
+             margin-right: 30px;
+        }
+        .abc img {
+            height: 210px;
+        }
+        }
