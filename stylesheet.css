@@ -204,3 +204,22 @@ hr{
 .abc1 {
     margin-left: 30px;
 }
+@media (max-width: 575px) {
+   body {
+    width: 100%;
+   }
+   .nav-abc ul li{
+    padding: 10px; 
+    font-size: 10px;
+}
+.img0-mno {
+    width: 100px;
+}
+.mno img{
+    height: 160px;
+     background-color: #edf505;
+     margin-right: 30px;
+}
+.abc img {
+    height: 210px;
+}
