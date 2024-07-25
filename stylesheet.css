@@ -93,5 +93,9 @@ hr{margin-top: 40px; margin-left: 30px; margin-right: 30px;}
     body{color: white; background-color: black; margin-left: 15px; margin-right: 25px;}
     .nav>img{width: 80px; }
     .nav>ul>li{padding: 4px; font-size: 8px;}
-    .main {width: 100vh;}
+    .main {width: 65vh;}
+    #dark{color: white; font-size: 12px; font-weight: 450; font-family: sans-serif;}
+.img0 {width: 65px;}
+#dark+p{color: white; font-size: 16px; font-family: "Montserrate"; padding-right: 20px; text-align: justify; font-weight: 50;}
+.First{display: flex; margin-top: 15px; margin-left: 15px; margin-right: -37px;}
 }
