@@ -1,3 +1,4 @@
+
 body{
     color: white; 
     background-color: black; 
@@ -313,7 +314,7 @@ hr{
             background-color: black; 
             margin-left: 0px; 
             margin-right: 0px;
-            width: 60vh;
+            width: 100vh;
         }
            .nav-abc ul li{
             padding: 10px; 
