@@ -204,6 +204,9 @@ hr{
 .abc1 {
     margin-left: 30px;
 }
+.abc7 {
+    align-items: center;
+}
 @media (max-width: 1660px) {
     body{
         color: white; 
