@@ -362,4 +362,7 @@ hr{
         .nav-abc {
             display: block;
         }
+        .nav-abc ul {
+            padding: 0;
+        }
         }
