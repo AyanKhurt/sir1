@@ -332,7 +332,7 @@ hr{
             height: 210px;
         }
         }
-        @media (max-width: 575px) {
+        /* @media (max-width: 575px) {
         body{
             font-size: 12px;
             color: white; 
@@ -375,5 +375,118 @@ hr{
             .xyz {
                 
                 width: 100%;
+            }
+        } */
+        @media (max-width: 575px) {
+            body {
+                margin-left: 10px; 
+                margin-right: 10px;
+            }
+        
+            .nav-abc {
+                flex-direction: column;
+                align-items: center;
+            }
+        
+            .nav-abc ul {
+                flex-direction: column;
+                padding: 0;
+            }
+        
+            .nav-abc ul li {
+                padding: 10px; 
+                font-size: 8px;
+            }
+        
+            .nav-abc img {
+                width: 140px; 
+            }
+        
+            .First {
+                flex-direction: column;
+                margin: 15px;
+                width: 100%;
+            }
+        
+            #id111111 {
+                font-size: 20px; 
+                margin-left: 0;
+            }
+        
+            #id111111 p {
+                font-size: 14px; 
+                margin-left: 0; 
+            }
+        
+            .abc3 {
+                flex-direction: column;
+                margin: 15px;
+            }
+        
+            .abc4 {
+                flex-direction: column;
+                height: auto;
+                padding: 10px;
+            }
+        
+            #id1111, #id111 {
+                flex-basis: auto; 
+                font-size: 18px;
+            }
+        
+            #but1 {
+                width: 100%;
+                font-size: 14px;
+                height: auto;
+                padding: 10px;
+            }
+        
+            .abc5 {
+                flex-direction: column;
+                align-items: center;
+            }
+        
+            #id11 {
+                flex-basis: auto;
+                font-size: 20px;
+            }
+        
+            .abc5 img {
+                width: 100%;
+                max-width: 300px;
+            }
+        
+            .abc8 {
+                width: 100%;
+                align-items: center;
+            }
+        
+            .abc8 img {
+                width: 80px;
+            }
+        
+            .abc8 p {
+                font-size: 0.7em;
+            }
+        
+            .abc9 {
+                flex-direction: column;
+                align-items: center;
+            }
+        
+            #abc0 {
+                flex-basis: auto;
+                word-spacing: normal;
+            }
+        
+            .mno img {
+                height: auto;
+                width: 100%;
+                max-height: 200px;
+            }
+            
+            .stu {
+                margin: 10px;
+                flex-direction: column;
             }
         }
