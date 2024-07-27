@@ -338,11 +338,11 @@ hr{
             background-color: black; 
             margin-left: 0px; 
             margin-right: 0px;
-            width: 90vh;
+            width: 50%
         }
            .nav-abc ul li{
             padding: 10px; 
-            font-size: 10px;
+            font-size: 14px;
         }
         .img0-mno {
             width: 100px;
@@ -354,5 +354,12 @@ hr{
         }
         .abc img {
             height: 210px;
+        }
+        .nav-abc img {
+            width: 245px;
+        }
+        
+        .nav-abc {
+            display: block;
         }
         }
