@@ -379,8 +379,9 @@ hr{
         } */
         @media (max-width: 575px) {
             body {
-                margin-left: 10px; 
+                margin-left: 10px;
                 margin-right: 10px;
+                width: 95%;
             }
         
             .nav-abc {
@@ -391,15 +392,15 @@ hr{
             .nav-abc ul {
                 flex-direction: column;
                 padding: 0;
+                align-items: center;
             }
         
-            .nav-abc ul li {
-                padding: 10px; 
-                font-size: 8px;
+            .nav-abc ul li { 
+                font-size: 16px;
             }
         
             .nav-abc img {
-                width: 140px; 
+                width: 200px; 
             }
         
             .First {
@@ -454,6 +455,11 @@ hr{
             .abc5 img {
                 width: 100%;
                 max-width: 300px;
+            }
+            .abc7 {
+                display: flex;
+                justify-content: space-between;
+                margin: 60px;
             }
         
             .abc8 {
