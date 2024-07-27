@@ -358,7 +358,7 @@ hr{
             height: 210px;
         }
         .nav-abc img {
-            width: 100%;
+            width: 50%;
         }
         
         .nav-abc {
@@ -371,5 +371,9 @@ hr{
             .nav-abc ul li {
                 padding: 8px;
                 font-size: 13px;
+            }
+            .xyz {
+                
+                width: 50%;
             }
         }
