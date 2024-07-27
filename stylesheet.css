@@ -365,4 +365,9 @@ hr{
         .nav-abc ul {
             padding: 0px;
         }
+        
+            .nav-abc ul li {
+                padding: 8px;
+                font-size: 13px;
+            }
         }
