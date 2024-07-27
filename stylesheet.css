@@ -491,4 +491,7 @@ hr{
                 margin: 10px;
                 flex-direction: column;
             }
+            content {
+                font-size: 12px;
+            }
         }
