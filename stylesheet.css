@@ -358,7 +358,7 @@ hr{
             height: 210px;
         }
         .nav-abc img {
-            width: 50%;
+            width: 100%;
         }
         
         .nav-abc {
@@ -374,6 +374,6 @@ hr{
         }
             .xyz {
                 
-                width: 50%;
+                width: 100%;
             }
         }
