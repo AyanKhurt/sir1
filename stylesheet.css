@@ -384,7 +384,7 @@ hr{
     }
 
     .mno img {
-        height: 250px;
+        height: 300px;
         width: 100%;
     }
 
@@ -397,6 +397,9 @@ hr{
     }
     content {
         font-size: 18px;
+    }
+    .img0-mno {
+        width: 150px;
     }
 }
         /* @media (max-width: 991px) {
