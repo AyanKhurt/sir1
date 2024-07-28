@@ -214,6 +214,7 @@ hr{
     }
     .nav-abc ul li {
         align-items: center;
+        font-size: 18px;
     }
     .mno img {
         height: 470px;
@@ -236,7 +237,7 @@ hr{
     }
     .nav-abc ul li{
         padding: 15px; 
-        font-size: 10px;
+        font-size: 16px;
     }
     .nav-abc img{
         width: 180px; 
