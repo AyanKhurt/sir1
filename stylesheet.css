@@ -428,6 +428,7 @@ hr{
                 flex-direction: column;
                 height: auto;
                 padding: 10px;
+                width: 100%;
             }
         
             #id1111, #id111 {
