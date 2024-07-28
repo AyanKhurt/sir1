@@ -428,7 +428,7 @@ hr{
                 flex-direction: column;
                 height: auto;
                 padding: 10px;
-                width: 100%;
+                
             }
         
             #id1111, #id111 {
@@ -494,5 +494,8 @@ hr{
             }
             content {
                 font-size: 12px;
+            }
+            .abc7 {
+                margin: 0px;
             }
         }
