@@ -43,7 +43,7 @@ body{
 #id111111 p{
     color: white; 
     margin-left: 30px; 
-    ont-size: 16.8px; 
+    font-size: 16.8px; 
     font-family: "Montserrate";
 }
 .abc3{
@@ -465,7 +465,7 @@ hr{
             }
         
             .abc8 img {
-                width: 80px;
+                width: 60px;
             }
         
             .abc8 p {
