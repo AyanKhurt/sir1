@@ -237,27 +237,13 @@ hr{
     }
 }
 @media (max-width: 1399px) {
-    body{
-        color: white; 
-        background-color: black; 
-        margin-left: 0px; 
-        margin-right: 0px;
+    body {
         width: 100%;
+        overflow-x: hidden;
+        font-size: 20px;
     }
-       .nav-abc ul li{
-        padding: 10px; 
-        font-size: 10px;
-    }
-    .img0-mno {
-        width: 100px;
-    }
-    .mno img{
-        height: 160px;
-         background-color: #edf505;
-         margin-right: 30px;
-    }
-    .abc img {
-        height: 210px;
+    .mno img {
+        height: 400px;
     }
 }
 
