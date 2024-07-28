@@ -286,8 +286,8 @@ hr{
         }
 @media (max-width: 991px) {
     body {
-        margin-left: 20px; 
-        margin-right: 20px;
+        /* margin-left: 20px; 
+        margin-right: 20px; */
     }
 
     .nav-abc {
@@ -298,15 +298,17 @@ hr{
     .nav-abc ul {
         flex-direction: column;
         padding: 0;
+        align-items: center;
     }
 
     .nav-abc ul li {
         padding: 10px;
-        font-size: 12px;
+        font-size: 20px;
+        
     }
 
     .nav-abc img {
-        width: 150px;
+        width: 200px;
     }
 
     .First {
@@ -361,7 +363,7 @@ hr{
     }
 
     .abc5 img {
-        width: 100%;
+        width: 50%;
     }
 
     .abc6, .abc7 {
@@ -382,12 +384,19 @@ hr{
     }
 
     .mno img {
-        height: auto;
+        height: 250px;
         width: 100%;
     }
 
     .xyz {
-        width: auto;
+        width: 100%;
+    }
+    #abc0 {
+        flex-basis: 250px;
+        word-spacing: 5px;
+    }
+    content {
+        font-size: 18px;
     }
 }
         /* @media (max-width: 991px) {
